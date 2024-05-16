@@ -1,0 +1,5 @@
+print("Hello")
+print("hello \n world 3")  
+print('hello \tworld')
+len('hello')
+len('i am here')
